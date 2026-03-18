@@ -50,7 +50,8 @@
           {
             "group": "Authentication",
             "pages": [
-              "api-reference/login-1"
+              "api-reference/login-1",
+              "api-reference/create-user"
             ]
           }
         ]
